@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+Hello, 
 
-You can use the [editor on GitHub](https://github.com/drewcunningham/drewcunningham.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ #### Welcome to my website!
+ 
+ ![profileimage](https://drewcunningham.github.io/assets/profileim.jpg)
+ 
+ Here is a bit of my educational background: I graduated from [Haverford College](https://www.haverford.edu) in May 2020 with a B.A. in English and with minors in German and philosophy. In my final year, I wrote a thesis, “‘This Intolerable Incubus’: The Melancholia of ‘Bartleby, the Scrivener’,” in which I examined the complex relationship between the lawyer-narrator and Bartleby, one of the most puzzled over figures in American literature. During my third year, I studied abroad in Berlin, and, now, I am anticipating spending more time in Germany with [Fulbright ETA](https://us.fulbrightonline.org/about/types-of-awards/english-teaching-assistant-awards) (English Teaching Assistantship), though, unfortunately, the program has been delayed, due to the COVID-19 pandemic, until at least January 2021.
+In the meantime, I have begun the process of applying to graduate schools to continue my studies in literature, in particular, American literature of the nineteenth century with focuses in psychoanalysis, relationality, gender and sexuality, and race and ethnicity.
+In 2018, I conducted some research for and curated an exhibit within Haverford College’s (then) newly opened [VCAM](https://www.haverford.edu/visual-culture-arts-and-media) with support from the English department and the John B. Hurford ’60 Center for the Arts and Humanities, among others. The exhibit, entitled [“The Lynching of Zachariah Walker: A Local Legacy,”](https://blogs.haverford.edu/decentered/2018/10/25/preparing-for-the-legacy-of-lynching-an-interview-with-drew-cunningham-20/) was opened in conjunction with the [“Legacy of Lynching: Confronting Racial Terror in America”](https://exhibits.haverford.edu/thelegacyoflynching/about/) exhibit at the Canter Fizgerald Gallery at Haverford.
+I have some experience as an educator, serving as a writing tutor for Haverford’s [MAST](https://www.haverford.edu/mast) program and as a teaching assistant for intermediate German.
+Otherwise, I have worked in libraries and coffee shops, thus, in places where I also enjoy spending my free time writing, reading, and people watching.
+For more information pertaining to my academic/work experience, please reference my [LinkedIn](https://www.linkedin.com/in/ddcunningham) or view my [CV](https://1drv.ms/b/s!Av_8w3mihfQvy1Mey_Kl81i1AhPd?e=4sccb2).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drewcunningham/drewcunningham.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
