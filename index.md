@@ -10,6 +10,7 @@ In 2018, I conducted some research for and curated an exhibit within Haverford C
 I have experience as an educator, serving as a writing tutor for Haverford’s [MAST](https://www.haverford.edu/mast) program and as a teaching assistant for intermediate German.
 
 Otherwise, I have worked in libraries and coffee shops, thus, in places where I also enjoy spending my free time writing, reading, and people watching.
-For more information pertaining to my academic/work experience, please reference my [LinkedIn](https://www.linkedin.com/in/ddcunningham) or view my [CV](https://drewcunningham.github.io/assets/2020CVpublic.pdf). 
+
+### For more information pertaining to my academic/work experience, please reference my [LinkedIn](https://www.linkedin.com/in/ddcunningham) or view my [CV](https://drewcunningham.github.io/assets/2020CVpublic.pdf). 
 
 ![classecontroclasse](https://drewcunningham.github.io/assets/classecontro.jpg)
