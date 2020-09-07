@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Drew Cunningham
 description: What can the fitness of things mean, if not their fitness to a man's expectations? —George Eliot, Middlemarch
 logo: /assets/profileimage.jpg
-is_project_page: false
+is\_project\_page: false
