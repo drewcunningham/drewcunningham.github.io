@@ -2,7 +2,6 @@ Hello,
 
 ### Welcome to my website!
  
-![profileimage](https://drewcunningham.github.io/assets/profileim.jpg)
  
 Here is a bit of my educational background: I graduated from [Haverford College](https://www.haverford.edu/english) in May 2020 with a B.A. in English and with minors in German and philosophy. In my final year, I wrote a thesis, “‘This Intolerable Incubus’: The Melancholia of ‘Bartleby, the Scrivener’,” in which I examined the complex relationship between the lawyer-narrator and Bartleby, one of the most puzzled over figures in American literature. During my third year, I studied abroad in Berlin, and, now, I am anticipating spending more time in Germany with [Fulbright ETA](https://us.fulbrightonline.org/about/types-of-awards/english-teaching-assistant-awards) (English Teaching Assistantship), though, unfortunately, the program has been delayed, due to the COVID-19 pandemic, until at least January 2021. In the meantime, I have begun the process of applying to graduate schools to continue my studies in literature, in particular, American literature of the nineteenth century with focuses in psychoanalysis, relationality, gender, sexuality, race, and ethnicity.
  
