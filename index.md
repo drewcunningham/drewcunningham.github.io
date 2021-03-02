@@ -6,7 +6,7 @@ Here is a bit of my educational background: I graduated from [Haverford College]
 
 ![berlinerdom](https://drewcunningham.github.io/assets/berlinerdom.jpg) 
 
-In 2018, I conducted some research for and curated an exhibit within Haverford College’s (then) newly opened [VCAM](https://www.haverford.edu/visual-culture-arts-and-media) with support from the English department, the John B. Hurford ’60 Center for the Arts and Humanities, as well as the Office of the Provost. The exhibit, entitled [“The Lynching of Zachariah Walker: A Local Legacy,”](https://blogs.haverford.edu/decentered/2018/10/25/preparing-for-the-legacy-of-lynching-an-interview-with-drew-cunningham-20/) was opened in conjunction with the [“Legacy of Lynching: Confronting Racial Terror in America”](https://exhibits.haverford.edu/thelegacyoflynching/about/) exhibit at the Cantor Fizgerald Gallery at Haverford.
+In 2018, I conducted some research for and curated an exhibit within Haverford College’s (then) newly opened [VCAM](https://www.haverford.edu/visual-culture-arts-and-media) with support from the English department, the John B. Hurford ’60 Center for the Arts and Humanities, as well as the Office of the Provost. The exhibit, entitled [“The Lynching of Zachariah Walker: A Local Legacy,”](https://blogsarchive.sites.haverford.edu/decentered/2018/10/preparing-for-the-legacy-of-lynching-an-interview-with-drew-cunningham-20/) was opened in conjunction with the [“Legacy of Lynching: Confronting Racial Terror in America”](https://exhibits.haverford.edu/thelegacyoflynching/about/) exhibit at the Cantor Fizgerald Gallery at Haverford.
 
 ![exhibit](https://drewcunningham.github.io/assets/2018exhibit1.jpg)
 
