@@ -17,4 +17,6 @@ Education:
 - M.S.L.S., Clarion University of Pennsylvania [expected 2023]
 - B.A. *magna cum laude* in English (with high honors), Haverford College [2020]
 
+Visit the [blog!](https://medium.com/@drewcunninghamx)
+
 drewcunningham at outlook (dot) com
